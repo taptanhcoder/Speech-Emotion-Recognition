@@ -1,2 +1,1 @@
-# EmotionProject
- 
+#Speech Emotion Recognition
